@@ -8,21 +8,21 @@
 
 有一天晚上，在学校宿舍，我突然想到了一个简单的解决办法：将所有单词的字母顺序创建为文件夹，在相应的的文件夹里放一个解释这个单词的txt文件，不就可以实现这个功能了吗？
 
-![37](/images/37.PNG)
+![](https://hk-shao.github.io/images/blog/37.PNG)
 
-![38](/images/blog/38.gif)
+![38](https://hk-shao.github.io/images/blog/38.gif)
 
 我只需要在MP3文件夹视图中，一层层打开相应的文件夹来定位这个单词，得到单词释义。
 
 程序很好写，数据也很好找，放假回家马上就实现了。总共制作了近四万个单词（包括文件夹有十几万），效果如下：
 
-![39](/images/39.gif)
+![39](https://hk-shao.github.io/images/blog/39.gif)
 
 # 成果
 
 把这些文件夹放到一张SD卡里，插到MP3上。打开，效果跟预想中的一样。我在学校试用了2个星期，感觉查单词挺方便的。后来又回家做了个40万单词的版本，在MP3上的最终效果如下图：
 
-![40](/images/40.gif)
+![40](https://hk-shao.github.io/images/blog/40.gif)
 
 # 代码
 
